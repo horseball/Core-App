@@ -15,6 +15,10 @@
       "type": "http",
       "direction": "out",
       "name": "$return"
+    },
+    {
+      "name": "league_add",
+      "path": "/api/leagues/create"
     }
   ]
 }
