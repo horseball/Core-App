@@ -4,3 +4,4 @@
 
 azure-functions
 ms-dataverse
+pytest
